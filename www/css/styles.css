@@ -1,0 +1,31 @@
+* {
+      margin: 0 auto;
+      padding: 0;
+      border: 0;
+}
+
+button {
+      width: 40px;
+      height: 40px;
+      text-align: center;
+      font-size: 200%;
+      border: 0.5px solid #ABB2BE;
+      background-color: white;
+      color: #4C5155;
+}
+
+.bandera {
+      background: url('../img/flag.png') no-repeat center;
+      background-size: contain;
+      color: transparent;
+}
+
+.mina {
+      background: url('../img/mina.png') no-repeat center;
+      background-size: contain;
+      color: transparent;
+}
+
+.row {
+      height: 40px;
+}
